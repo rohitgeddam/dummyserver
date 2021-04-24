@@ -2,43 +2,43 @@
 	"items": [{
 			"id": 1,
 			"category": "saree",
-			"title": "Designer Saree",
-			"description": "Indian Saree",
+			"title": "PERFECTBLUE Saree",
+			"description": "PERFECTBLUE Women`s Blend Linen saree with Blouse Piece(LinenPlain1)",
 			"color": "black",
-			"price": 20.99,
-			"thumbnail": "https://i.imgur.com/8PAWlEd.jpeg",
+			"price": 42.99,
+			"thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81et7nKmZHL._UL1500_.jpg",
 			"available": true,
 			"images": [
-				"https://i.imgur.com/8PAWlEd.jpeg",
-				"https://assets.panashindia.com/media/catalog/product/cache/1/small_image/262x377/9df78eab33525d08d6e5fb8d27136e95/2/4/2497sr03-463.jpg"
+				"https://images-na.ssl-images-amazon.com/images/I/91gcDNu2zqL._UL1500_.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/91Gm5q6poDL._UL1500_.jpg"
 			]
 		},
 		{
 			"id": 2,
 			"category": "saree",
-			"title": "Designer Saree",
-			"description": "Indian Saree",
-			"color": "black",
-			"price": 20.99,
-			"thumbnail": "https://i.imgur.com/8PAWlEd.jpeg",
+			"title": "Dubai Creation Saree",
+			"description": "Women's Silk Saree",
+			"color": "red",
+			"price": 19.99,
+			"thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61euSRzgdkL._UL1100_.jpg",
 			"available": true,
 			"images": [
-				"https://i.imgur.com/8PAWlEd.jpeg",
-				"https://assets.panashindia.com/media/catalog/product/cache/1/small_image/262x377/9df78eab33525d08d6e5fb8d27136e95/2/4/2497sr03-463.jpg"
+				"https://images-na.ssl-images-amazon.com/images/I/61UDAl1QidL._UL1100_.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/51rOIUzsgRL._UL1100_.jpg"
 			]
 		},
 		{
 			"id": 3,
-			"category": "saree",
+			"category": "Leeza Store saree",
 			"title": "Designer Saree",
-			"description": "Indian Saree",
-			"color": "black",
-			"price": 20.99,
-			"thumbnail": "https://i.imgur.com/8PAWlEd.jpeg",
+			"description": "Women's Woven Silk Blend Festive Wear Banarasi Style Plain Saree With Border With Blouse Piece",
+			"color": "green",
+			"price": 23.99,
+			"thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71qv4-LCeCL._UL1500_.jpg",
 			"available": false,
 			"images": [
-				"https://i.imgur.com/8PAWlEd.jpeg",
-				"https://assets.panashindia.com/media/catalog/product/cache/1/small_image/262x377/9df78eab33525d08d6e5fb8d27136e95/2/4/2497sr03-463.jpg"
+				"https://images-na.ssl-images-amazon.com/images/I/71LsUbKcAXL._UL1500_.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/71eEBZsLZzL._UL1500_.jpg"
 			]
 		},
 		{
@@ -46,13 +46,13 @@
 			"category": "saree",
 			"title": "Designer Saree",
 			"description": "Indian Saree",
-			"color": "black",
-			"price": 20.99,
+			"color": "yellow",
+			"price": 42.99,
 			"available": true,
-			"thumbnail": "https://i.imgur.com/8PAWlEd.jpeg",
+			"thumbnail": "https://images-na.ssl-images-amazon.com/images/I/915YHorqJTL._UL1500_.jpg",
 			"images": [
-				"https://i.imgur.com/8PAWlEd.jpeg",
-				"https://assets.panashindia.com/media/catalog/product/cache/1/small_image/262x377/9df78eab33525d08d6e5fb8d27136e95/2/4/2497sr03-463.jpg"
+				"https://images-na.ssl-images-amazon.com/images/I/91bKGNTgeEL._UL1500_.jpg",
+				"https://images-na.ssl-images-amazon.com/images/I/912wwy0rxQL._UL1500_.jpg"
 			]
 		}
 
